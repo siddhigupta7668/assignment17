@@ -1,0 +1,59 @@
+body {
+background-color: black;
+text-align: center;
+}
+
+body h1 {
+    color: whitesmoke;
+}
+
+.p1 {
+background-image: url(https://rb.gy/n7fimt);
+padding-left: 50px;
+font-size: 50px;
+height: 500px;
+width: 1000px;
+background-size: 100;
+background-repeat: no-repeat;
+text-align: center;
+color:red;
+font-family: 'Vampiro One', cursive;
+font-family: 'Vampiro One', cursive;
+
+}
+
+.h2 {
+    background-color: blue;
+    text-align:center;
+    position: sticky;
+    top: 0px;
+}
+
+.p2 {
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Fredoka One', cursive;
+    color:limegreen;
+    background-color: crimson;
+}
+
+.p3 {
+    font-family: 'fredoka One';
+   background-color: sandybrown; 
+ 
+   color: pink;
+
+
+}
+
+
+.h22  {background-color: pink;
+    text-align: center;
+    position: sticky;
+    top: 5px;
+    
+}
+
+body h2 {
+    position: fixed;
+
+}
